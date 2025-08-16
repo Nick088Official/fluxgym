@@ -47,7 +47,7 @@ You can easily add more to the supported models list by editing the [models.yaml
 
 Here are people using Fluxgym to locally train Lora sharing their experience:
 
-https://pinokio.computer/item?uri=https://github.com/cocktailpeanut/fluxgym
+https://pinokio.co/item.html?uri=https://github.com/cocktailpeanut/fluxgym
 
 
 # More Info
@@ -58,7 +58,7 @@ To learn more, check out this X thread: https://x.com/cocktailpeanut/status/1832
 
 ## 1. One-Click Install
 
-You can automatically install and launch everything locally with Pinokio 1-click launcher: https://pinokio.computer/item?uri=https://github.com/cocktailpeanut/fluxgym
+You can automatically install and launch everything locally with Pinokio 1-click launcher: https://pinokio.co/item.html?uri=https://github.com/cocktailpeanut/fluxgym
 
 
 ## 2. Install Manually
